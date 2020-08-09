@@ -3,7 +3,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Rovetta-blue?logo=linkedin"/></a>
 </p>
 
-### :zap: Olá galera 
+## :zap: Olá,
+Bem-vindo ao meu github, logo abaixo tem algumas informações relevantes sobre mim
 
 ### :scroll: Sobre mim 
 Meu nome é Guilherme Rovetta, tenho 27 anos, moro em São José dos Campos/SP e sou desenvolvedor front-end.
