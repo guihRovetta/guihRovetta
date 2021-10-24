@@ -24,7 +24,7 @@ Algumas das tecnologias que já trabalhei ou que ainda trabalho:
 &nbsp;
 <img src="https://docs.microsoft.com/pt-pt/windows/images/nextjs-logo.png" height="35px"/>
 &nbsp;
-<img src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" height="35px"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.png" height="35px"/>
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="35px"/>
 &nbsp;
