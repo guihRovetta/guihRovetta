@@ -18,33 +18,33 @@ Algumas das tecnologias que já trabalhei ou que ainda trabalho:
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
-<img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" height="35px"/>
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/>
 &nbsp;
-<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" height="35px"/>
+<img src="https://uireactnative.com/wp-content/uploads/2019/04/react-native-logo.png" height="35px"/>
 &nbsp;
 <img src="https://docs.microsoft.com/pt-pt/windows/images/nextjs-logo.png" height="35px"/>
 &nbsp;
 <img src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" height="35px"/>
 &nbsp;
-<img src="https://img2.gratispng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" height="35px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="35px"/>
 &nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35px"/>
 &nbsp;
-<img src="https://bitrise-steplib-collection.s3.amazonaws.com/steps/expo-detach/assets/icon.svg" height="35px"/>
+<img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" height="35px"/>
 &nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="35px"/>
 &nbsp;
-<img src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="35px"/>
+<img src="https://seeklogo.com/images/E/eslint-logo-DDFB6EBCF6-seeklogo.com.png" height="35px"/>
 &nbsp;
 <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/prettier-1-logo.png" height="35px"/>
 &nbsp;
 <img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png" height="35px"/>
 &nbsp;
-<img src="https://image.pngaaa.com/425/5006425-middle.png" height="35px"/>
+<img src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67" height="35px"/>
 &nbsp;
-<img src="https://img2.gratispng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" height="35px"/>
+<img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" height="35px"/>
 &nbsp;
-<img src="https://www.clipartmax.com/png/middle/124-1243662_docker-whale-logo-docker-png-logo.png" height="35px"/>
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="35px"/>
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="35px"/>
 &nbsp;
