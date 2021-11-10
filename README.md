@@ -68,6 +68,7 @@ Alguns projetos que já desenvolvi ou estão em desenvolvimento:
 - :iphone: Mobile 
 	-  <a alt="iFood Clone UI" href="https://github.com/guihRovetta/ifood-clone"><img src="http://whatsrel.com.br/wp-content/uploads/2020/12/vagas-rela%C3%A7%C3%B5es-internacionais.png" width="16px" alt="Instagram Logo"/> iFood Clone UI</a>
 	- <a alt="Instagram Clone UI" href="https://github.com/guihRovetta/instagram-clone"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16px" alt="Instagram Logo"/> Instagram Clone UI</a>
+	- <a alt="Twitch Clone UI" href="https://github.com/guihRovetta/twitch-clone"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" width="16px" alt="Twitch Logo"/> Twitch Clone UI</a>
 
 ### :mailbox: Contato
 Para entrar em contato comigo, acesse o meu LinkedIn no link abaixo:
